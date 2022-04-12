@@ -26,4 +26,4 @@
 <p><a href="https://www.buymeacoffee.com/kameliagerard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kameliagerard" /></a><a href="https://ko-fi.com/kameliagerard"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kameliagerard" /></a></p><br><br>
 
 <h3 align="left">More:</h3>
-<a href="https://app.daily.dev/kameliagerard"><img src="https://api.daily.dev/devcards/a8d77e20967549c897a8d16fef5f7ac8.png?r=cnz" width="400" alt="Kamélia Gérard's Dev Card"/></a>
+<a href="https://app.daily.dev/kameliagerard"><img src="https://api.daily.dev/devcards/a8d77e20967549c897a8d16fef5f7ac8.png?r=w26" width="400" alt="Kamélia Gérard's Dev Card"/></a>
