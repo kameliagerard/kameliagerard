@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web PHP Developer**
 
-- 👯 I’m looking to collaborate on **a 1 month internship**
-
 - 👨‍💻 All of my projects are available at [linktr.ee/gerardkamelia](linktr.ee/gerardkamelia)
 
 - 📫 How to reach me **gerard.kamelia@gmail.com**
