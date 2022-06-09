@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web PHP Developer**
 
-- 👨‍💻 All of my projects are available at [[linktr.ee/gerardkamelia](linktr.ee/gerardkamelia)](https://linktr.ee/gerardkamelia)
+- 👨‍💻 All of my projects are available at https://linktr.ee/gerardkamelia
 
 - 📫 How to reach me **gerard.kamelia@gmail.com**
 
